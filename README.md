@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sandboxpipelines/pipelines-java/_apis/build/status/agambin-desarrollo.pipelines-java?branchName=master)](https://dev.azure.com/sandboxpipelines/pipelines-java/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
